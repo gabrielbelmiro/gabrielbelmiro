@@ -25,18 +25,9 @@
   <img src="https://img.shields.io/badge/RAG-Architecture-purple" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-Applied-blue" />
 </p>
-<h4>💻 Core</h4>
+<h4>💻 Stack</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,javascript,java,spring&perline=5" />
-  <h4>🗄️ Data</h4> 
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=2" />
-  <h4>⚙️ DevOps</h4>
-  <img src="https://skillicons.dev/icons?i=git,docker&perline=2" />
-  <h4>🤖 Automation</h4>
-  <img src="https://skillicons.dev/icons?i=selenium,python&perline=2" />
-
-  <h4>🎬 Motion & Design</h4>
-  <img src="https://skillicons.dev/icons?i=ae,pr,ps,figma" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,javascript,java,spring,mysql,postgres,git,docker,selenium" />
 </p>
 
 ---
