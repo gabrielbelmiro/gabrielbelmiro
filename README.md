@@ -1,6 +1,6 @@
 # 👨‍💻 Olá, eu sou Gabriel Belmiro
 
-`AI & Automation Engineer | RPA | AI Agents | RAG | Python | Hyperautomation`
+`Desenvolvedor FullStack | RPA | AI Agents | RAG | Python | Hyperautomation`
 
 ---
 
