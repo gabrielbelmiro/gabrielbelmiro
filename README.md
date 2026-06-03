@@ -58,6 +58,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielbelmiro&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbelmiro&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielbelmiro&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbelmiro&layout=compact&theme=tokyonight&cache_seconds=1800)
